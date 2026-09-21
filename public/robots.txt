@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toobeeinvoicecreator.netlify.app/sitemap.xml
