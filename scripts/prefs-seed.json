@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "appTheme": "dark",
+  "language": "en",
+  "restoreSession": false,
+  "lastFilePath": null,
+  "seller": {
+    "id": "seller",
+    "name": "Lorem Ipsum Studio",
+    "contactName": "Lorem Ipsum",
+    "email": "lorem@ipsum.example",
+    "phone": "000 000 0000",
+    "website": "lorem-ipsum.example",
+    "address": {
+      "line1": "123 Lorem Street",
+      "line2": "",
+      "city": "Ipsum City",
+      "region": "",
+      "postalCode": "00000",
+      "countryCode": "GB"
+    },
+    "taxIds": [
+      { "label": "Tax ID", "value": "000000000" }
+    ],
+    "notes": ""
+  },
+  "clients": [
+    {
+      "id": "client-1",
+      "name": "Ipsum Lorem Ltd",
+      "contactName": "Dolor Sit",
+      "email": "dolor@sit.example",
+      "phone": "000 000 0001",
+      "website": "ipsum-lorem.example",
+      "address": {
+        "line1": "456 Ipsum Avenue",
+        "line2": "",
+        "city": "Lorem Town",
+        "region": "",
+        "postalCode": "11111",
+        "countryCode": "GB"
+      },
+      "taxIds": [{ "label": "Company No.", "value": "111111111" }],
+      "notes": ""
+    },
+    {
+      "id": "client-2",
+      "name": "Amet Consectetur Co.",
+      "contactName": "Elit Sed",
+      "email": "elit@sed.example",
+      "phone": "000 000 0002",
+      "website": "amet-consectetur.example",
+      "address": {
+        "line1": "789 Dolor Road",
+        "line2": "",
+        "city": "Amet City",
+        "region": "",
+        "postalCode": "22222",
+        "countryCode": "GB"
+      },
+      "taxIds": [],
+      "notes": ""
+    },
+    {
+      "id": "client-3",
+      "name": "Tempor Incididunt Inc.",
+      "contactName": "Labore Magna",
+      "email": "labore@magna.example",
+      "phone": "000 000 0003",
+      "website": "tempor-incididunt.example",
+      "address": {
+        "line1": "321 Aliqua Lane",
+        "line2": "",
+        "city": "Tempor Town",
+        "region": "",
+        "postalCode": "33333",
+        "countryCode": "GB"
+      },
+      "taxIds": [{ "label": "Tax ID", "value": "222222222" }],
+      "notes": ""
+    }
+  ],
+  "items": [
+    {
+      "id": "item-1",
+      "description": "Lorem ipsum dolor sit amet",
+      "details": "Consectetur adipiscing elit sed do eiusmod.",
+      "unit": "",
+      "unitPrice": 10,
+      "taxRate": null,
+      "taxLabel": "",
+      "category": "Lorem",
+      "useCount": 1,
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "item-2",
+      "description": "Ipsum dolor sit amet consectetur",
+      "details": "Tempor incididunt ut labore et dolore magna.",
+      "unit": "item",
+      "unitPrice": 20,
+      "taxRate": null,
+      "taxLabel": "",
+      "category": "Ipsum",
+      "useCount": 2,
+      "updatedAt": "2026-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "item-3",
+      "description": "Dolor sit amet consectetur adipiscing",
+      "details": "Aliqua ut enim ad minim veniam.",
+      "unit": "hour",
+      "unitPrice": 30,
+      "taxRate": null,
+      "taxLabel": "",
+      "category": "Dolor",
+      "useCount": 3,
+      "updatedAt": "2026-01-03T00:00:00.000Z"
+    },
+    {
+      "id": "item-4",
+      "description": "Sit amet consectetur adipiscing elit",
+      "details": "Quis nostrud exercitation ullamco laboris.",
+      "unit": "day",
+      "unitPrice": 40,
+      "taxRate": null,
+      "taxLabel": "",
+      "category": "Sit",
+      "useCount": 4,
+      "updatedAt": "2026-01-04T00:00:00.000Z"
+    },
+    {
+      "id": "item-5",
+      "description": "Amet consectetur adipiscing elit sed",
+      "details": "Nisi ut aliquip ex ea commodo consequat.",
+      "unit": "",
+      "unitPrice": 50,
+      "taxRate": 9,
+      "taxLabel": "Tax",
+      "category": "Amet",
+      "useCount": 5,
+      "updatedAt": "2026-01-05T00:00:00.000Z"
+    }
+  ],
+  "styles": [],
+  "numbering": {
+    "prefix": "INV-",
+    "includeYear": true,
+    "padding": 4,
+    "next": 1,
+    "resetYearly": true,
+    "year": 2026
+  },
+  "defaults": {
+    "currencyCode": "GBP",
+    "paper": "A4",
+    "templateId": "modern-minimal",
+    "taxMode": "invoice",
+    "taxLabel": "Tax",
+    "taxRate": 9,
+    "pricesIncludeTax": false,
+    "termsDays": 30,
+    "terms": "Net 30",
+    "notes": "",
+    "paymentInstructions": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "locale": "en-GB"
+  },
+  "panels": {
+    "form": 620,
+    "inspector": 330
+  }
+}

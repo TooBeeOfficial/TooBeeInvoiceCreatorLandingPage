@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="56.247314mm"
+   height="56.514404mm"
+   viewBox="0 0 56.247314 56.514404"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient9730">
+      <stop
+         style="stop-color:#3771c8;stop-opacity:1"
+         offset="0"
+         id="stop9726" />
+      <stop
+         style="stop-color:#00112b;stop-opacity:1"
+         offset="1"
+         id="stop9728" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter14296"
+       x="-0.03718878"
+       y="-0.022479812"
+       width="1.096071"
+       height="1.0543262">
+      <feFlood
+         flood-opacity="0.25098"
+         flood-color="rgb(0,10,33)"
+         result="flood"
+         id="feFlood14286" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite14288" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.5"
+         result="blur"
+         id="feGaussianBlur14290" />
+      <feOffset
+         dx="0.7"
+         dy="0.5"
+         result="offset"
+         id="feOffset14292" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite14294" />
+    </filter>
+    <linearGradient
+       xlink:href="#linearGradient9730"
+       id="linearGradient9662"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-72.495833)"
+       x1="83.211456"
+       y1="229.52605"
+       x2="33.602081"
+       y2="179.91667" />
+    <linearGradient
+       xlink:href="#linearGradient9730"
+       id="linearGradient9664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-72.495833)"
+       x1="16.404167"
+       y1="162.98334"
+       x2="67.73333"
+       y2="214.84166" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter11059"
+       x="0"
+       y="0"
+       width="1"
+       height="1.0047485">
+      <feColorMatrix
+         type="hueRotate"
+         values="261"
+         result="color1"
+         id="feColorMatrix11055" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic"
+         id="feColorMatrix11057" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix14332" />
+      <feColorMatrix
+         id="feColorMatrix14334"
+         type="hueRotate"
+         values="346"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix14336"
+         type="saturate"
+         values="0.75"
+         result="color2" />
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(-448.33982,-573.47496)">
+    <g id="g12648" transform="translate(-10.476965,76.332177)">
+      <g id="g9898" style="filter:url(#filter11059)" transform="translate(135.16567,70.207581)">
+        <g id="g9654" transform="translate(309.67887,339.00467)">
+          <rect
+             style="fill:url(#linearGradient9662);fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-miterlimit:100"
+             id="rect9636"
+             width="56.247284"
+             height="56.247284"
+             x="13.972256"
+             y="87.930511"
+             rx="4.4655552"
+             ry="4.4655552" />
+          <rect
+             style="fill:url(#linearGradient9664);fill-opacity:1;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:100"
+             id="rect9638"
+             width="53.38118"
+             height="53.38118"
+             x="15.405308"
+             y="89.363556"
+             rx="3.3235977"
+             ry="3.3235977" />
+          <rect
+             style="fill:#002255;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:100"
+             id="rect9640"
+             width="53.38118"
+             height="53.38118"
+             x="15.405308"
+             y="89.363556"
+             rx="3.3235977"
+             ry="3.3235977" />
+          <g id="g9652" transform="translate(0,-72.495833)">
+            <g id="g9650" style="filter:url(#filter14296)">
+              <path
+                 id="path9642"
+                 style="fill:#0044aa;fill-opacity:1;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:100"
+                 d="m 18.728658,161.85949 c -1.841268,0 -3.323312,1.48204 -3.323312,3.32331 v 46.7341 c 0,1.84125 1.482044,3.32382 3.323312,3.32382 h 6.961849 v -39.25031 -1.26918 -2.31924 h 15.89567 l 6.086967,-10.5425 H 44.924475 39.00804 Z" />
+              <g id="g9648">
+                <path
+                   id="path9644"
+                   style="fill:#0044aa;fill-opacity:1;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:100"
+                   d="m 31.633813,178.66606 v 17.52451 h 9.952364 l 5.058606,-8.76227 -5.058606,-8.76224 z" />
+                <path
+                   id="path9646"
+                   style="fill:#0044aa;fill-opacity:1;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:100"
+                   d="m 31.633813,197.71606 v 17.52451 h 9.952364 l 5.058606,-8.76227 -5.058606,-8.76224 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
